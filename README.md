@@ -2,8 +2,7 @@
 
 ## **Team Details**
 
-* **Team Name:** Equalify  
-* **Team ID:** Team20\_Equalify  
+* **Team Name:** Equalify   
 * **Members:**  
   * M MUTHU KUMARAN  
   * Sree Harshini T  
@@ -43,6 +42,10 @@ label, confidence \= predict("path/to/test\_image.jpg")
 
 print(f"Label: {label} (0=Male, 1=Female)")  
 print(f"Confidence: {confidence:.4f}")
+
+**Output Visualization**
+<img width="1600" height="1066" alt="image" src="https://github.com/user-attachments/assets/f6079742-d056-45f4-9eaf-d2319e1d786c" />
+
 
 ## **Technical Strategy & Implementation (How it Works)**
 
